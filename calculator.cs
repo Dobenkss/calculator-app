@@ -16,7 +16,7 @@ class Calculator {
             return a + b;
         }
 
-        static int Pengurangan(int a, int b)
+        static int kurang(int a, int b)
         {
             return a - b;
         }
